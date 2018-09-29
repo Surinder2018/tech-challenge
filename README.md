@@ -107,7 +107,6 @@ or
   mvn test
 ```
 
-
 You can run tests in parallel
 
 ```bash
