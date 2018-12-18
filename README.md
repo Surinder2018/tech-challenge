@@ -1,3 +1,6 @@
+Ebay search and shop items - test automation
+
+
 # Gauge with Selenium Grid
 
 This is Gauge and Selenium Grid project. It can
